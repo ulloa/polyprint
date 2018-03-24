@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/PolyPrint.iml" filepath="$PROJECT_DIR$/PolyPrint.iml" />
+      <module fileurl="file://C:\Users\Peter\source\repos\polyprint\PolyPrint.iml" filepath="C:\Users\Peter\source\repos\polyprint\PolyPrint.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\Peter\source\repos\polyprint\app\app.iml" filepath="C:\Users\Peter\source\repos\polyprint\app\app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/polyprint.iml" filepath="$PROJECT_DIR$/polyprint.iml" />
     </modules>
   </component>
 </project>
